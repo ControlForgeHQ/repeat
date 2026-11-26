@@ -18,7 +18,7 @@ If implementation reveals that a protected document is incorrect, ambiguous, con
 
 If an assigned requirement conflicts with these instructions, is internally contradictory, or requires a material decision not covered by the approved scope, stop and report the conflict.
 
-Existing architectural or engineering documentation does not prevent implementing an explicitly approved change to Refrain's behavior. Proceed with the approved implementation and report any resulting documentation discrepancies or required updates.
+If an approved change requires behavior that conflicts with authoritative documentation, report the discrepancy and obtain an approved documentation update before implementation.
 
 Do not silently reinterpret ambiguous requirements, make unapproved architectural decisions, or expand the assigned scope.
 

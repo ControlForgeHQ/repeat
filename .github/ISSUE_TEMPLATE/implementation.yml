@@ -48,9 +48,8 @@ body:
     attributes:
       label: Constraints and references
       description: |
-        Include constraints specific to this issue and links to relevant
-        architecture, engineering, content-format, or roadmap sections.
-        Do not duplicate project-wide requirements.
+        Include constraints specific to this issue and references to relevant
+        authoritative project documentation. Do not duplicate project-wide requirements.
     validations:
       required: false
 
@@ -72,7 +71,7 @@ body:
       label: Additional validation
       description: |
         Specify tests or manual validation unique to this issue.
-        Standard project validation remains governed by docs/ENGINEERING.md.
+        Standard project validation remains governed by docs/DEVELOPMENT_STANDARDS.md.
         Identify required hardware validation when applicable.
     validations:
       required: false
